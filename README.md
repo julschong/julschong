@@ -22,7 +22,7 @@ I love learning new things about coding everyday!
 
 ### 📬 Get in Touch
 
-- GitHub: [https://github.com/julschong][github]
+- GitHub: [julschong](https://github.com/julschong)
 - E-mail: 7julius.lee@gmail.com
 - LinkedIn: coming soon
 - Site: coming soon
