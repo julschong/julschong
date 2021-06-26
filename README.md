@@ -1,4 +1,9 @@
-### Hi there, I'm Julius! 👋
+### Hi there, I'm Julius Lee! 👋
+![Javascript](https://img.shields.io/badge/Javascript-Intermediate-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-lightgrey)
+![Java](https://img.shields.io/badge/Java-Intermediate-black)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 
 I'm a passionate, self taught programmer learning to become a fullstack developer. 
 I love learn new things about coding everyday!
@@ -11,6 +16,8 @@ I love learn new things about coding everyday!
 - ⚡ Fun fact: I love playing basketball and used to spend all my free time on the court!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julschong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages I love
 
 
 ### 📬 Get in Touch
