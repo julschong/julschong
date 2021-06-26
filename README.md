@@ -6,7 +6,7 @@
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 
 I'm a passionate, self taught programmer learning to become a fullstack developer. 
-I love learn new things about coding everyday!
+I love learning new things about coding everyday!
 
 - 🔭 I’m currently working on building my porfolio website
 - 🌱 I’m currently learning NextJS and Strapi
