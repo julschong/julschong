@@ -9,7 +9,7 @@
 
 -   🔭 I’m currently working on building **my portfolio website**
 
--   🌱 I’m currently learning **NextJS and Strapi**
+-   🌱 I’m currently learning **Golang**
 
 -   👯 I’m looking to collaborate on **anything MERN or Java!**
 
