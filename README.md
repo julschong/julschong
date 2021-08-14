@@ -7,9 +7,9 @@
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 
--   🔭 I’m currently working on building **my portfolio website**
+-   🔭 I’m currently working on building **Snakey**
 
--   🌱 I’m currently learning **Golang**
+-   🌱 I’m currently learning to use **Docker**
 
 -   👯 I’m looking to collaborate on **anything MERN or Java!**
 
