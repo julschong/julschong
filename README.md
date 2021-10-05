@@ -24,7 +24,7 @@
 -   GitHub: [julschong](https://github.com/julschong)
 -   E-mail: 7julius.lee@gmail.com
 -   LinkedIn: [Julius](https://www.linkedin.com/in/julschong7)
--   Site: coming soon
+-   Site: [JulsChong](https://julschong.github.io/my-portfolio/)
 
 <h3 align="left">Languages and Tools:</h3>
 
