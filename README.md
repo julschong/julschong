@@ -7,12 +7,6 @@
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 
--   🔭 I’m currently working on studying **Data Structure and Algorithms!**
-
--   🌱 I’m currently learning to use **Golang!**
-
--   👯 I’m looking to collaborate on **anything MERN or Java!**
-
 -   💬 Ask me about **anything!**
 
 -   ⚡ Fun fact **I love playing basketball and used to spend all my free time on the court!**
