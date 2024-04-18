@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julius Lee</h1>
-<h3 align="center">I'm a passionate, self taught programmer learning to become a fullstack developer. I love learning new things about coding everyday!</h3>
+<h3 align="center">I'm a current Software Engineer with 2+ years experience specializing in backend development, infrastructure maintenance,
+and internal tool improvement. I love customizing and improving Linux development environments. I am experienced in Agile Scrum and TDD (Test Driven Development) methodology and have led many major projects contributing to better
+product performance and developer productivity. Always interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools when the need arises.</h3>
 
 ![Javascript](https://img.shields.io/badge/Javascript-Intermediate-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-lightgrey)
