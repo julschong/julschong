@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Julius Lee</h1>
-&nbsp;&nbsp;&nbsp;&nbsp;I'm a current Software Engineer with 2+ years experience specializing in backend development, infrastructure maintenance,
-and internal tool improvement. I love customizing and improving Linux development environments. I am experienced in Agile Scrum and TDD (Test Driven Development) methodology and have led many major projects contributing to better
-product performance and developer productivity. Always interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools when the need arises.
+&nbsp;&nbsp;&nbsp;&nbsp;I’m a Software Engineer with over 3 years of experience specializing in backend web development. My passion lies in crafting solutions that not only solve problems but also work well with diverse requirements.
+
+Throughout my career, I've become proficient in Java and JavaScript, working on some exciting projects. At Liferay, I took on the challenge of integrating authentication and encryption for secure cluster communication channels. This experience was pivotal for me, as it reinforced my love for tackling complex security challenges and keeping up with the latest in technology.
+
+For me, software engineering is all about collaboration and continuous learning. I thrive on adapting to new technologies and best practices quickly, and I take pride in writing clean and performent code. I enjoy diving deep into problems, conducting depth analyses to find best working solutions.
+
+Outside of work, I'm passionate about basketball and 3D printing. You'll often find me on the court playing pickup games to stay active, or experimenting with my 3D printer to create practical and fun items for my home.
+
+I’m always open to connecting and exploring new opportunities. If you’re passionate about software development and enjoy innovative solutions that drive success, let's connect and see how we can work together!
 
 -   💬 Ask me about **anything!**
 
